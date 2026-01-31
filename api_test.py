@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "AIzaSyAZZiXXdDdYcKHs4hXp0sOxT-1Z1r5_2iI"
+API_KEY = "key"
 
 url = f"https://www.googleapis.com/geolocation/v1/geolocate?key={API_KEY}"
 
